@@ -1,2 +1,2 @@
 # my-dummy-repository
-ni nothing to read here
+hi nothing to read here
